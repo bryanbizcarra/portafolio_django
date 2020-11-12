@@ -1,2 +1,2 @@
 # portafolio_django
-bryanbizcarra.herokuapp.com
+https://bryanbizcarra.herokuapp.com/
